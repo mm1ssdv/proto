@@ -1,2 +1,3 @@
 sudo raspi-config
 sudo shutdown -h now
+sudo apt-get install nautilus-open-terminal #adds 'open terminal here' function#

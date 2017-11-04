@@ -7,6 +7,6 @@ from pydrive.drive import GoogleDrive
 
 drive = GoogleDrive(gauth)
 
-file1 = drive.CreateFile({'title': 'Hello.txt'})  # Create GoogleDriveFile instance with title 'Hello.txt'.
-file1.SetContentString('Hello World!') # Set content of the file from given string.
+file1 = drive.CreateFile({'title': 'daqdata.csv'})  # Create GoogleDriveFile instance with title
+file1.SetContentFile('pitestcsv.csv')
 file1.Upload()

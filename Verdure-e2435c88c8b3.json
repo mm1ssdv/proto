@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "verdure-184422",
+  "private_key_id": "e2435c88c8b3936fd7314106e2e381e47948aa43",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvfIoILZBEn7+m\nA0RqLyiVN/FeNq/7gKhi7S+SDXAmSQ0pFbtAyY2Zymg4fNdUozMopv4scOa2bAE9\ncCPLk9lFs3UIBU8O1F8umOdDZ7uTUXz7Cp4s2Naj4bw3N1fTrQcCkfvBVlMxlOIq\ntCwlcGgEYIdUaagG/JgeBkjMHGkhL9uL7QLZ1RKhZQbs90o4LmHNrt31jWAtfsB/\nnp83j325R72jQg+ut7V4CopK3c0HO7RneTze2ZSYc5aS7drs3Y3JqhA+zyIZRvJ9\n470tBXMtUJ2zt/Y/Cu6bJ7b37+kBgFcfNT2Rve8x5osIsR2/4dpWst7o5ccLqPNd\nhcuaHjmPAgMBAAECggEACEEA0wqllvy2jG3p6V6nd4FGmopS867k/KYwTxvPsxVL\nh6usf4sbXGjvRvzkOehlLxvPp7J1v43L7yJXpKsjFIqwzfxF8CogAfaSJhL6eR7j\nlIE22GAolFO5QRWazWt9gWrxXvIa/qGEk8KesvIbCl2p79f6Xb3Cv+LGyMbrUPK1\nwTCuODwpZQbxrqsX4wp6i3923cTaErILBJtCz/ueUnWwIyMisefEhoXM2LEV5h+m\nKzr5r6YlKdo9bY9LstrE+7bbJ9t//mdoXGoRzRmzJQOTPapUT4OhAEwhkgKkIs0q\nIvon3wP6wRBoHjTsAieM5KdMKDmxsVAVpP+RvXFwNQKBgQDru0VNE37cw0A2DOBH\nTrxBRe19tBvMlg1MpNTCLlBxhhiq6lpKZk2IR15MDggEJasIuFdlJPZU2Qh6/chi\nfZos8LlUneTDAOMbc7JLTsCjOR4AtT+t3xOGYCerHR8gw02h1gk4ntvmt5ynBips\nnU02Fg6tYCIIWZAnZG2F0AizJQKBgQC+kzQyG1kF+Vsc5dbEnRfNu16u17Qcvmzd\n+r1JxOb9aR+ozqRD7g9eH6mDayQNIWJ4iSAFxEhrOW0T4Cm53Xj1bJ2cd6CC5ceP\nd0jOKeKgo7RbXW5cPJemW4tqEAhfJgwYZML5bqOZWpeG3EdOrHAYi95NZTtXy/w7\nNf5sp8+1owKBgAFvZ3Gbr8cKTUbG90qX2R+QnGyKfyzUsQoJat4vx/+Y8GeB+8C+\nNLSisplF8JiN3ie0b5vHCNTlaV7OUrz+xMSHRqmUOINTaw6MusYomZWk0GDyuYuG\ncyj7RuKMz9a0ObHFitLUbMRP091UdUeqAYFVywsVLb/dQ7ppqx0IcjUdAoGBAIGn\njoxEdNWOp0FK0UnkgqxSPIGBeSVRHKoNC7jjgC+J1KM5KyKYFNZ5fg9N1jIks2TE\nDgg+WPKyGBa8nEa6ea+nXLd137sOby2Y/uxcLLYTigHa19li0923TGs1SyzIqtPx\nwYCHmEAeFRcISG8q+/yHNA+9vpjly83Q1y6/IJ43AoGAc89/TipcrdJm4Z9XfRFT\nRrU+hWWIMXqLMjVqFOtTFgxDtDRRuY/U+pJlPD86ojIMQILvkw+Z6iP1qJ118VE9\nMmk7GUvN3Zv6z+Yjy0nAWYIsnB31Z8kaKDfbm2kTF1FFFQTWTEBEnO/IytADPw2L\nuoteM9gyQcCs5xGjmXb/kHQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "verdure-data@verdure-184422.iam.gserviceaccount.com",
+  "client_id": "110594571250085179028",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/verdure-data%40verdure-184422.iam.gserviceaccount.com"
+}
